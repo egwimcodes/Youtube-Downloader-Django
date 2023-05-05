@@ -1,0 +1,10 @@
+html, body {
+    padding: 0;
+    margin-top: 40px;
+    background-color: rgb(0, 120, 218);
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
